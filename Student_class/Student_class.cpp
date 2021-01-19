@@ -1,5 +1,11 @@
 // Student_class.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
+// Ethan
+// semester 2 2021
+// Due Jan 20th
+// Lab 1 Student Class
+// calculates gpa average, take student classes, which semester the classes were taken, take student name, and take student id
+
 
 #include <iostream>
 
